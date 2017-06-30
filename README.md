@@ -27,5 +27,4 @@ dus met dit allemaal in de master voor nu ff
 
 ## Copyright
 Hier ook copyrifght. All rights reserved
-
-## test change
+## updates van de eerste developer
